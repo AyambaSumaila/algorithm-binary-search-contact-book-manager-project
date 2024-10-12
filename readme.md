@@ -78,13 +78,16 @@ Application Structure
 
 graphql
 
-contact_book_app.py         # Main application file
-contact.py                  # Contains Contact class definition
-binary_search_tree.py       # Contains Binary Search Tree class definition
+## contact_book_app.py       
+##### Main application file
+## contact.py                  
+##### Contains Contact class definition
+## binary_search_tree.py     
+##### Contains Binary Search Tree class definition
 README.md                   # Documentation file
 contacts.csv                # Example contacts CSV file (if applicable)
 
-Future Enhancements
+# Future Enhancements
 
     Implement fuzzy matching for search functionality.
     Add data validation for phone numbers and emails.
