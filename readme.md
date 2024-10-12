@@ -1,7 +1,7 @@
 # P RO J E CT : CONTACT BOOK APPLICATION
 
-Welcome to Project , where we will apply our knowledge from the
-previous chapters to create something practical and engaging: a
+Welcome to Project , where we will apply our knowledge Algorithms to 
+create something practical and engaging: a
 Contact Book Application. This project is a fantastic way to see how
 data structures like binary search trees (BSTs) can be used in real-
 world applications. Our contact book will allow users to add, delete,
